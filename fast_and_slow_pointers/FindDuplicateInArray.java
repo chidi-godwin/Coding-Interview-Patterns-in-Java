@@ -1,4 +1,4 @@
-package fast_and_slow_pointers.list;
+package fast_and_slow_pointers;
 
 public class FindDuplicateInArray {
   public static void main(String[] args) {
